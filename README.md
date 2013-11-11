@@ -2,7 +2,7 @@
 
 The Galah Group General Public License is a deriavitive of the [GNU Affero General Public License version 3 (AGPLv3)](http://www.gnu.org/licenses/agpl.html).
 
-The GG-GPL is not a Free Software license, nor is it an Open Source license.
+The GG-GPL is not a [Free Software license](#why-is-the-gg-gpl-not-considered-a-free-license), nor is it an [Open Source license](#why-is-the-gg-gpl-not-considered-an-open-source-license).
 
 ## Quick Overview
 
@@ -48,6 +48,10 @@ It basically boils down to including the license text in your repository, then a
 > Project is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the Galah Group General Public License for more details.
 >
 > You should have received a copy of the Galah Group General Public License along with Project.  If not, see <http://www.galahgroup.com/gg-gpl>.
+
+### Who should use this software?
+
+This license is best applied to server software that is meant to be sold to users who will host it themselves. You can also apply it to your Software as a Service business to try and benefit the Open Source community.
 
 ### Why is the GG-GPL not considered a Free License?
 
